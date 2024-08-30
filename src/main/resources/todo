@@ -1,0 +1,8 @@
+    //TODO: regionManager saves
+    //if most people sleep then sleep
+    //disable damageindicators, maybe just for custom mobs DONE
+    //stand cleanup system? not cruicial
+    //fix regions saving only to dimension
+    //sandstone drops (takes it as bedrock)
+
+    //FLYING ON allow-flight=true server.properties

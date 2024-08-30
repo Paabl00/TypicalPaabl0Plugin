@@ -1,0 +1,17 @@
+name: TypicalPaabl0Plugin
+version: '${project.version}'
+main: me.Paabl0.net.TypicalPabloPlugin
+api-version: 1.21.1
+authors: [ Paabl0 ]
+description: The catalytic conversion of CO2 can reduce its impact in the atmosphere and produce chemicals of industrial interest. Based on this, herein, ethanol formation from CO2 hydrogenation with water was studied.
+
+commands:
+  region:
+    description: Region setup/management command
+    aliases: [r, regions]
+  skills:
+  analysis:
+  transfuse:
+  cw:
+  return:
+  mfuba:
